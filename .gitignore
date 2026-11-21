@@ -1,0 +1,5 @@
+bin/
+*.class
+*_report.json
+*.csv
+.vscode/
